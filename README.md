@@ -1,16 +1,55 @@
-## Hi there 👋
+👋 Welcome to SecWithSteve
 
-<!--
-**SecWithSteve/SecWithSteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm documenting my journey into cybersecurity from the ground up.
 
-Here are some ideas to get you started:
+My goal is to build a strong technical foundation while developing long-term expertise across cybersecurity, GRC, cloud security, and AI security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ Current Focus
+
+I'm currently studying for the CompTIA Security+ (SY0-701) certification.
+
+I'm focused on understanding security concepts through scenario-based practice rather than simply memorizing definitions.
+
+Current Security+ Progress
+
+19 / 26 study sections completed
+
+Areas I'm currently developing:
+
+Security fundamentals
+Threats and vulnerabilities
+Security architecture
+Security operations
+Risk management
+Governance, risk, and compliance
+Incident response
+Vulnerability management
+🎯 Long-Term Direction
+
+As I continue developing, I plan to document my progress in:
+
+Cybersecurity
+Networking
+Governance, Risk, and Compliance (GRC)
+Cloud Security
+Security Automation
+AI Security and Governance
+🔬 What You'll Find Here
+
+Over time, this GitHub will contain:
+
+Study progress
+Hands-on labs
+Cybersecurity projects
+Technical documentation
+GRC projects
+Cloud security projects
+Security automation
+Lessons learned
+📈 The Journey
+
+This profile isn't meant to show only the finished product.
+
+I'm documenting the process of learning, practicing, making mistakes, correcting them, earning certifications, building projects, and becoming better over time.
+
+Current milestone: CompTIA Security+
